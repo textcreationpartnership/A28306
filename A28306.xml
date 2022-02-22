@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A heavenly diurnall, glory be to God on high, peace on earth, good will towards men, it was good news, is, and ever will be, or, The long expected returne of the many publike and private humiliations of the people of God all which will by his blessing ere long, be turned into dayes of great praise and thanksgiving, and prove a fatall scourge to such traiterous, blasphemous tongues as Aulicus, &amp;c / by I. B.</title>
+            <author>Blackwell, Jonathan.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28306</idno>
+            <idno type="STC">Wing B3094</idno>
+            <idno type="STC">ESTC R4370</idno>
+            <idno type="EEBO-CITATION">11956973</idno>
+            <idno type="OCLC">ocm 11956973</idno>
+            <idno type="VID">51535</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51535)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 229:E8, no 32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A heavenly diurnall, glory be to God on high, peace on earth, good will towards men, it was good news, is, and ever will be, or, The long expected returne of the many publike and private humiliations of the people of God all which will by his blessing ere long, be turned into dayes of great praise and thanksgiving, and prove a fatall scourge to such traiterous, blasphemous tongues as Aulicus, &amp;c / by I. B.</title>
+                  <author>Blackwell, Jonathan.</author>
+               </titleStmt>
+               <extent>[2], 12 [i.e. 14] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Jonathan Blackwell.  Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Debts, Public --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51535:1" rendition="simple:additions"/>
+            <p>A Heavenly DIURNALL Glory be to God on High, Peace on Earth, Good will towards Men.</p>
+            <p>It was good news, is, and ever will be.</p>
+            <p>OR, The long expected returne of the many publike and private <hi>Humiliations</hi> of the people of God.</p>
+            <p>All which will by his bleſſing ere long, be turned into dayes of great praiſe and th<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>giving: and prove a fatall ſcourge to ſuch Trai<g ref="char:EOLhyphen"/>terous blaſphemous Tongues as Aulicus, &amp;c.</p>
+            <p>By <hi>I. B.</hi>
+            </p>
+            <p>London printed 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51535:2"/>
+            <pb n="1" facs="tcp:51535:2"/>
+            <head>To all unfained Lovers of Truth and Peace thorowout the world.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas on Fryday laſt, being the <hi>6.</hi> of Septemb. <hi>1644.</hi> there was preferred to the Common Counſell of <hi>London</hi> a Petition by ſeverall well affected perſons, who in re<g ref="char:EOLhyphen"/>ference to a late Order of the Houſe of Commons upon the City Petition for <hi>Pro<g ref="char:EOLhyphen"/>viſion of juſt Debts,</hi> had ſeverall meetings to conſi<g ref="char:EOLhyphen"/>der of Propoſitions for advance of Moneys, and ha<g ref="char:EOLhyphen"/>ving finiſhed the ſame, being not at all different in ſubſtance from thoſe in a late printed Paper, did preſent the ſame to the ſaid Common Counſell, hum<g ref="char:EOLhyphen"/>bly praying them (if approved) to repreſent the ſame to the Honourable Houſe of Commons for ſuch allow<g ref="char:EOLhyphen"/>ance therein as ſhould be thought meet, which Pro<g ref="char:EOLhyphen"/>poſitions were referred to the conſideration of a Committee of ſix Aldermen and twelve Common<g ref="char:EOLhyphen"/>ers. Now to the end all ſcruples may, as neere as the Author can, be cleared, and the buſineſſe which by
+<pb n="2" facs="tcp:51535:3"/>judgement of many wiſe men is conceived to tend ſo much to raiſe for the Parliament upon the publike faiths credit ſo conſiderable great ſums of Money, beyond beleefe of many; and not onely ſo, but much to conduce to the glory of God, the peace, wel<g ref="char:EOLhyphen"/>fare, and ſafety of theſe bleeding dying Kingdoms, may be haſtned and furthered by thoſe in Authority whom it doth or ſhall concerne. The Author is im<g ref="char:EOLhyphen"/>boldned to put the enſuing Objections and Anſwers in print, without compoſing them in any better form, as well for expedition ſake, as alſo becauſe they ſhould not differ from what he had formerly delivered to ſeverall perſons in writing; not doubting, though it be a tranſgreſsion, it will be eſteemed, as he profeſ<g ref="char:EOLhyphen"/>ſeth, a well affected one. Notwithſtanding, for his proceedings in a buſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe generally reputed and eſteemed to be of ſo great good and importance to the publike, the Author hath been moſt unjuſtly termed a Malignant, nay, the head of all Malignants about Town. God forgive them, for he accounts it a very great bleſsing <hi>rebus ſic ſtantibus</hi> to be ſo honoured.</p>
+            <div type="part">
+               <head>Certaine Objections made concerning Propoſitions for juſt Debts, which were anſwered unto as fol<g ref="char:EOLhyphen"/>loweth, or to the like effect.</head>
+               <p>IT is conceived never to be the intent of the Parlia<g ref="char:EOLhyphen"/>ment, that honeſt mens Debts owing by Delinquents ſhould goe towards payment of publike faith.</p>
+               <p>If proviſion be not firſt made for payment of juſt
+<pb n="3" facs="tcp:51535:3"/>Debts, many Delinquents, whoſe Eſtates are now offe<g ref="char:EOLhyphen"/>red to ſale, being juſtly indebted more then they are worth, it will be the honeſt mens Eſtates that unavoid<g ref="char:EOLhyphen"/>ably muſt pay ſuch publike Faith, and ſo cauſe a great heart burning (if not prevented.)</p>
+               <p>If Lands be ſold at a full value, there is no queſtion but the Creditors being ſatisfied their juſt Debts, there will be a good remainder, not onely to pay juſt Debts, but alſo the publike faith, and ſuch Damages as they have done to the Kingdome.</p>
+               <p>If Land be ſold at 8. and 6. yeers purchaſe, with ſuch allowance of publike Faith as is propounded, the pub<g ref="char:EOLhyphen"/>like Faith (if compounded for at a low rate) will not onely be diſhonoured, but alſo be a great weakning to future Parliaments that may have the like uſe of it, when after ages ſhall know there was ſo much loſſe (as in this way will be) to them that lent it; neither in this way will there (ſave onely ſome particular perſons) be fully ſatisfied the publike Faith. The Malignants, ſo eſtee<g ref="char:EOLhyphen"/>med, of whom moſt is bought and deſired to be bought, being conceived to have but little confidence in the Par<g ref="char:EOLhyphen"/>liament, will ſell it for little or nothing, and by what they ſo receive they are thereby the more enabled to diſ-ſerve the Parliament if opportunity ſerve.</p>
+            </div>
+            <div type="part">
+               <head>The Reaſons wherefore no more proviſion is made for the poore man, who is not ſo well able to ſecure his Debt is:</head>
+               <p>THat rich men may not ſeeme poore, and ſo take ad<g ref="char:EOLhyphen"/>vantage of ſuch a clauſe, and thereby the State ſhould be diſappointed for the preſent ſupply of Moneys, which in this way will be ſpeedily raiſed. But God forbid that the poore man, bringing in what he is able, ſhould not be allowed Juſtice, which is his birth-right, as well as others.</p>
+               <p>
+                  <pb n="4" facs="tcp:51535:4"/>It is conceived that the well-affected having ſpent their Lives and Eſtates for the preſervation of their Lives, Religion, Liberties, and Eſtates, might expect as much as is petitioned for, without bringing in 10. in the 100. But this they onely doe that the ſtate ſhould not (being neceſſitated for the preſervation of the Kingdom, ſell that for 50. li. which is worth 100. And rather then they ſhould doe ſo, it being known (not to be long dura<g ref="char:EOLhyphen"/>ble] honeſt men will ſtrip themſelves to their ſhirts to ſupply their occaſions.</p>
+               <p>This will diſcover all Malignants that have lent any Moneys to wage Warre againſt the Parliament; for firſt, they muſt bring in their Moneys, and then be put over to the Committee to prove the juſtneſſe of their Debts, wherein if he ſhall be found guilty, he ſhall not onely forſeit the Moneys brought in for ſecurity, but alſo be liable to ſuch other fines and puniſhments as the Parlia<g ref="char:EOLhyphen"/>ment ſhall thinke fit.</p>
+               <p>Lands being (as they will be in this way) advanced to double the value at which they are now offered to ſale, there will be as much left to pay publike Faith as now is, nay far more, where there is cleare eſtates; for the Creditors deſire to take them at a full value, and ſo they will produce double as much money. And therefore if the offer which is made of 20 or 30 <hi>per cent.</hi> to ſecure publike Faith be hearkned to, it will much advance the buſineſſe, if it be not conceived a weakning of the pub<g ref="char:EOLhyphen"/>like Faiths credit, to give ſo much, nay any thing to ſe<g ref="char:EOLhyphen"/>cure it, being the nobleſt and greateſt ſecurity that can he given, and no wayes thought deſperate as Delinquents are <hi>by the ſtrict Letter of the Law.</hi> But how well affected ſome may be eſteemed that offer 20 or 30 in the hundred to ſecure the publike Faith, that perhaps was bought at 60 in the hundred profit, and ſo offer the Parliament in plain Engliſh <hi>a Pig of their owne Sow.</hi> I know not, but certaine I
+<pb n="5" facs="tcp:51535:4"/>am that none but ſuch who have gotten by purchaſing of publike Faith as aforeſaid, will ſo undervalue its credit, &amp; therefore the well affected offer 10 in 100 more upon it.</p>
+               <p>It is not deſired any man ſhould be allowed more, nor any other of his Debts then what he may recover by Law if theſe diſtractions had not beene, and therefore he is turned over to the Committee, who are to judge of it, and allow ſo much thereof as they ſhall thinke fitting and juſt.</p>
+               <p>Alſo it is to be conſidered, that this way ſuits with the late City Petition for proviſion of juſt Debts out of De<g ref="char:EOLhyphen"/>linquents eſtates, and will unite <hi>London</hi> and the aſſocia<g ref="char:EOLhyphen"/>ted Counties, and raiſe in probability as much Money as the whole publike Faith lent already comes to, the State firſt and laſt being allowed 20 <hi>per cent.</hi> which is the fifth part; and there is owing, as is conceived, five mil<g ref="char:EOLhyphen"/>lions at leaſt, if not ten.</p>
+            </div>
+            <div type="part">
+               <head>The Queſtion being, which ſhall be firſt paid, Iuſt Debts, or Publike Faith.</head>
+               <head type="sub">Reſolved as neere as I can, with reference to better judgements, That juſt Debts ſhould be firſt paid, for theſe reaſons:</head>
+               <p n="1">1 BEcauſe it is the well affecteds eſtate, and not the Delinquents, and the Parliament, (as it is con<g ref="char:EOLhyphen"/>ceived) only intended to ſatisfie the publique faith with what was the States owne, not with what was the well affecteds.</p>
+               <p>Objection.</p>
+               <p>
+                  <hi>But all is forfeited to the State, and Delinquents eſtates are not by the fundamentall law lyable to pay their Debts.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>Therefore the City pleads equity to the Parliament, as may appeare by the Reaſons annexed to the City Petition, which are as followeth:</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:51535:5"/>
+               <head>The City Reaſons, wherefore honeſt and well affected mens Debts ſhould be made good out of their Delinquent Debtors Eſtates, ſo far forth as they will pay the ſame.</head>
+               <p>
+                  <hi>BEcauſe in confidence they ſhould be made good in caſe the Parliament prevailed, they have anſwerably to ſuch Debts which they alwayes accounted good eſtate, given, lent, and ſub<g ref="char:EOLhyphen"/>ſcribed great ſums of money for the Parliaments ſervice.</hi>
+               </p>
+               <p n="2">2. <hi>That proportionably to their eſtates, as well in Delinquents hands as others, they alwayes were and ſtill are eſtimated and valued, and accordingly aſſeſsed for the fifty Subſidies and other Aſſeſſements for the Parliaments ſervice.</hi>
+               </p>
+               <p n="3">3. <hi>That according to their eſtates, as well in Delinquents hands as others, they have adjudged themſelves and been adjud<g ref="char:EOLhyphen"/>ged to pay their twentieth part.</hi>
+               </p>
+               <p n="4">4. <hi>That divers Merchants who have great ſums known to be ſo owing, and not able to beare the loſse of it, their credits, which ie the life of trade, will be impaired, if not wholy loſt; and divers who have all or the greateſt part of their eſtates ſo owing, both them<g ref="char:EOLhyphen"/>ſelves, wives and children will be vtterly undone.</hi>
+               </p>
+               <p n="5">5. <hi>That they who have beene alwayes very active and forward to and beyond their eſtates to bring Delinquents to condigne pu<g ref="char:EOLhyphen"/>niſhment may not be made ſufferers with them, as of neceſsitie they muſt if proviſion be not made as aforeſaid, their eſtates be<g ref="char:EOLhyphen"/>ing involved in the Delinquents.</hi>
+               </p>
+               <p n="6">6. <hi>That many for their extraordinary zeale and forwardnes to advance the Parliaments cauſe, eſpecially ſuch as have taken upon them publike ſervices, have rendred themſelves ſo notorious to the contrary partie, that many of their Debtors would not, and others durſt not pay them one penny of their Debts, which other<g ref="char:EOLhyphen"/>wiſe might have been ſecured.</hi>
+               </p>
+               <p n="7">7. <hi>That if Debts ſo owing be not provided for, all in generall, eſpecially the Citizens of</hi> London, <hi>to whom moſt is owing, will be much diſcouraged and diſ-inabled to ſerve the Parliaments occaſions as formerly they have done, and ſtill deſire to doe.</hi>
+               </p>
+               <p>
+                  <pb n="5" facs="tcp:51535:5"/>
+                  <hi>Objection.</hi>
+               </p>
+               <p>But how then ſhall the publique faith be paid?</p>
+               <p>
+                  <hi>Anſwer.</hi>
+               </p>
+               <p>We therefore after this 10. l. in the hundred, that Land may not be as yet ſold at ſo low rates, but theſe<g ref="char:EOLhyphen"/>queſtrations may be continued for the States uſe, till the Kingdome be more ſetled, and then we deſire our debts may be aſſured us at a full value which may be double that they are now offered to ſale, and by that meanes there will be enough to pay both.</p>
+               <p>
+                  <hi>Objection.</hi>
+               </p>
+               <p>But how ſhall the State be ſupplied with monyes?</p>
+               <p>
+                  <hi>Objection.</hi>
+               </p>
+               <p>Let them be but pleaſed to make tryall of the pro<g ref="char:EOLhyphen"/>poſitions, which by judgement of wiſe men will advance more then ſale of Lands, and if it doth not prove ſo within the 28. dayes tryall, then let them proceed to ſale of Lands either in the way propounded, or other<g ref="char:EOLhyphen"/>wiſe, proviſion being onely made for ſuch honeſt men as ſhall bring in their monyes within the time, and then all claimourous mouthes will be ſtopt.</p>
+               <p>
+                  <hi>Secondly.</hi>
+               </p>
+               <p>By the exciſe and divers other wayes, the State may take order for ſatisfying of the publique faith when the Kingdome is ſetled; in the meane time, the overpluſſes of Delinquents eſtates may goe towards ſatisfaction thereof, and doubtleſſe many of them will have great overpluſſes.</p>
+               <p>
+                  <hi>Aud which is moſt of all conſiderable.</hi>
+               </p>
+               <p>This will unite the affections of all to the Parlia<g ref="char:EOLhyphen"/>ment; whereas the not allowing juſt debts, there being
+<pb n="6" facs="tcp:51535:6"/>as conceived ten millions of money owing by Delin<g ref="char:EOLhyphen"/>quents to the wel-affected, may diſ-unite their affections (which God prevent.)</p>
+               <p>
+                  <hi>Nay,</hi>
+               </p>
+               <p>Whereas the paying of the publike faith is ſo much ſtood upon.</p>
+               <p>
+                  <hi>Our deſire is that it may be put to tryall.</hi>
+               </p>
+               <p>And we will produce of honeſt and wel-affected men ten to one, nay an hundred to one, that have lent ten to one upon the publique faith, and not deſire (as they ne<g ref="char:EOLhyphen"/>ver expected) payment thereof till the Kingdome be ſet<g ref="char:EOLhyphen"/>led: And therefore we offer ten in the hundred more upon the publique faith, which we will alſo ſtay for; provided our juſt debts be ſecured.</p>
+               <p>
+                  <hi>So the great question is,</hi>
+               </p>
+               <p>Whether the Parliament to ſecure wel-affected debts (it being ſome of their whole eſtates, and in hopes whereof, they have lent great ſummes of money to the Parliament) will accept of three or ſoure hundred thouſand pounds, nay more there can be beleeved upon the publike faiths ſecurity, or not.</p>
+               <p>But that which doth moſt induce the wel-affected to lend 10. l. in the hundred more upon publike faith is, that the wel-affected Nobility, Gentry, and Comonal<g ref="char:EOLhyphen"/>ty of the Kingdome, nay the Parliament and City be not undone: For if theſe Lands now offered to ſale, be<g ref="char:EOLhyphen"/>ing the Creame, will produce but eight and ſix yeates purchaſe with ſuch allowance of publike faith; which if it be not, doubtleſſe may be, and carried ſo cloſely too, by ſeverall wayes as may be thought inſcrutable, or not to be diſcovered: What will the other Lands remote and in the Kings quarters yeeld next time the State
+<pb n="7" facs="tcp:51535:6"/>wants moneys, and ſo are neceſſitated to ſell more? Doubtleſſe at laſt they will fall to an Iriſh purchaſe, and ſo the wel-affected having ſpent themſelves al<g ref="char:EOLhyphen"/>ready for the ſervice of the Parliament, the great rich men generally, though many of them, as is the Author, unjuſtly termed Malignants, who have great purſes, as the Author hath not, (yet contented with what he hath) may ingroſſe all the Lands of the Kingdome into their owne hands: In the feare of God let it be ſeriouſly and ſpeedily conſidered of, not fearing they will doe any wrong, but that if they would they mightand accordingly judge of them who are willing to diſcover and make knowne ſuch a gap for that purpoſe.</p>
+               <p>Now the better to advance moneys upon the pro<g ref="char:EOLhyphen"/>poſitions in hand, it is deſired a Declaration may be forthwith publiſhed, that it ſhall be lawfull for every man bringing 10. l. in the hundred to have his debt tried in this new Court of Judicature, and upon due proofe recover judgement againſt any debtors or debtors eſtate, whom he ſuppoſeth to be with the King, or otherwiſe abſents himſelfe, and ſhall not re<g ref="char:EOLhyphen"/>paire to his dwelling, now or hereafter within the Parliaments quarters, within a certaine time to be limitted, or otherwiſe ſhew good cauſe for his ab<g ref="char:EOLhyphen"/>ſence; becauſe men will be fearful that the bringing in of their 10. l. in the hundred may make their debtors Delinquents; whereas the thing armed at is, that the Subject may be righted by his debtors eſtate, not be<g ref="char:EOLhyphen"/>ing able to reach his perſon by law.</p>
+               <p>God who is the God of <hi>peace,</hi> and Jeſus Chriſt who is the Prince of <hi>peaces,</hi> ſend us <hi>peace and truth,</hi> and
+<pb n="8" facs="tcp:51535:7"/>which is the hearty prayer of the Author, and which he profeſſeth in the preſence of the Omnicient God to be the onely thing he aymes at, and for proſecuti<g ref="char:EOLhyphen"/>on whereof he is by ſome particular perſons (igno<g ref="char:EOLhyphen"/>rantly, as in charity he conceives, but certainly moſt unjuſtly termed a Malignant, his heart being right towards God, his Royall Majeſty, Parliament and Country; and therefore heartily deſires, that this ill tare of deviſion may be ſpeedily rooted out, and that no man henceforward may dare to call a man a Malignant; which name is much deſtructive to trade (it being a weakning to many honeſt mens credit) unleſſe he can prove that he hath, or ſhall have a head, hand, or purſe againſt the Parliament, or that ſhall hereafter diſobey. <hi>Parliamentary commands;</hi> for as the Author conceives the Devill is the grant Ma<g ref="char:EOLhyphen"/>lignant, and all thoſe who are now in Armes and ma<g ref="char:EOLhyphen"/>liciouſly bent againſt their God, King, Parlia<g ref="char:EOLhyphen"/>liament, and Country, are his reall Children; but the Author in judgement of charity muſt needs have better thoughts of many of them, whoſe weak judge<g ref="char:EOLhyphen"/>ments have been wrought upon through the conning Prelaticall, Jeſuiticall, Diabolicall inſinuations of thoſe blood-thirſty, Jeſuiticall, Prelaticall Papiſts, and Iriſh Rebels; God be mercifull to their ſoules, (if they belong to him) but certainly he will plague their bodies and eſtates for this their Rebellion and Roguery; whereas the other ſo wrought upon as a<g ref="char:EOLhyphen"/>foreſaid, the Author humbly deſires ſhould upon their timely ſubmiſſion be as freely forgiven their great Treſpaſſes, as we doe expect God ſhould freely forgive us our Treſpaſſes.</p>
+               <p>
+                  <pb n="9" facs="tcp:51535:7"/>
+                  <hi>Further more.</hi>
+               </p>
+               <p>Whereas the Authour doth confidently beleeve that the Almighty God hath honoured this <hi>God-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ear<g ref="char:EOLhyphen"/>ing Parliament</hi> to lay the foundation of that <hi>Spiri<g ref="char:EOLhyphen"/>tuall Temple</hi> of our Lord and Saviour Jeſus Chriſt: He doth alſo as truly beleeve, that God (how farre the Spirituall Temple, exceeds the materiall, which was but a type and ſhadow) will in theſe our dayes (if we could but fully beleeve in him <hi>who is the Eternall,</hi> Almighty Lord of Heaven and Earth; the onely wiſe God, King of Kings, and Lord of Lords) ſoone plant the Goſpell of Jeſus Chriſt in the darke places of <hi>England</hi> and the two other united King<g ref="char:EOLhyphen"/>domes; and ſo erect his Temple, by the Spirituall Sword; that which many think onely poſſible to be done by the Temporall; and I am afraid many are guilty of this abhorrid <hi>Achan.</hi> Gods bleſſing goeth along with his Ordinances to convert ſoules; the fi<g ref="char:EOLhyphen"/>ery Ordinance which ſo much thunders now amongſt us is onely to chaſtiſe the bodies of the above menti<g ref="char:EOLhyphen"/>oned Malignants now in Armes, as aforeſaid.</p>
+               <p>If therefore a Treaſury were erected for the peo<g ref="char:EOLhyphen"/>ple to bring in moneys freely for the building of this Spirituall Temple, as was in the dayes of old for the Materiall: God, whoſe name is Jehovah; God that changeth nor, that hath the command of all mens hearts, would ſo powerfully worke upon them, that his glory might be knowne amongſt the Sonnes of men in theſe latter times, that the Author doth verily beleeve he would ſo move the hearts of people to this holy and heavenly worke that they ſhould ſo freely caſt in, that it ſhould be ſaid, as in old times,
+<pb n="10" facs="tcp:51535:8"/>forbeare, there is more then enough.</p>
+               <p>The Author hath ſome reaſon more then ſuper<g ref="char:EOLhyphen"/>naturall to beleeve ſo; becauſe he knowes that eve<g ref="char:EOLhyphen"/>ry true Proteſtant, who deſires to ſerve God in the wayes of his Fore-fathers ſince Reformation, and is willing to be reformed by Authority in all Tempo<g ref="char:EOLhyphen"/>rals, as immediately from the Parliament, who are their Heads. But in ſpirituals, as immediately from that reverend Aſſembly of Divines, whom the Au<g ref="char:EOLhyphen"/>thor conceives to be the moſt compudent judges in Divine things, and are onely to hand ſuch Spirituals to the Parliament for Confirmation (if approved.) And becauſe ſuch a true Proteſtant as aforeſaid will not willingly ſubmit to the malignant humour of e<g ref="char:EOLhyphen"/>very giddy unſetled braine, is thereupon preſently ter<g ref="char:EOLhyphen"/>med a Malignant, when God he knowes ſuch a Malig<g ref="char:EOLhyphen"/>nant wil give ten in the hundred for Peace and Truth, and none will refuſe (if able) being allowed the Pub<g ref="char:EOLhyphen"/>lique Faith for what ſhall be ſo flung into the ſaid Treaſury. Whereas ſome men being not ſo well min<g ref="char:EOLhyphen"/>ded, may offer to give (as too evidently appeares) three times as much for bloudy warre to ſerve their owne turnes, not reſpecting the glory of God, nor the Crowne and dignity of his Majeſties ſacred Perſon (as he is Gods annointed) nor of his great Councell the Lords and Commons in this preſent Parliament aſſembled, nor the welfare of their own native Coun<g ref="char:EOLhyphen"/>try, much leſſe of the other two Kingdomes, one whereof by a former, but of late by a more ſpeciall providence ſo ſtrongly linked together; all which are now lamentably bleeding, and if not ſpeedily ſtopt by God who is the onely wiſe Chyrurgion, and is onely
+<pb n="11" facs="tcp:51535:8"/>able to ſtoppe this <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> bleed to de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>; I me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to ru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtruc<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pulation, and ſo at laſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o foraigne <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ion, whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God in mercy for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Names ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd his Son Chriſt Jeſus ſake, the Saviour of us all, timely pre<g ref="char:EOLhyphen"/>vent, as doubtleſſe he will.</p>
+               <p>
+                  <hi>Beſides, another Motive is,</hi>
+               </p>
+               <p>That by this meanes all Aſſeſments, &amp;c. and pro<g ref="char:EOLhyphen"/>ceedings for non-pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment thereof (which were cauſed through our ſinnes, becauſe we were ſo backward <hi>To helpe the Lord againſt the mighty,</hi> which was <hi>Meros</hi> curſe) may according as the iſſue of this buſineſſe ſhal prove, upon triall thereof, be ſpeedily taken off, which will mightily indeare the affections of the People to King and Parliament.</p>
+               <p>
+                  <hi>Let evill councellours be removed from the Throne, and it ſhall be establiſhed in righteouſneſſe.</hi>
+               </p>
+               <p>
+                  <hi>Dearly beloved in our Lord and Saviour Jeſus Chriſt,</hi>
+               </p>
+               <p>If any thing be not as it ſhould be, attribute it to the weaknes and inability of the Penner, who goes by the name of the Author, but not to the Author of the Penner; I leave every man to judge that knowes the Penner and his diſabilities in ſuch things, to judge who that Author is that ſet him on worke. And the Penner humbly prayes you wil accept of (as our moſt Mercifull and Heavenly Father doth) the will for the deed, being limited unto two houres time for the ex<g ref="char:EOLhyphen"/>pediting hereof. This buſineſſe (as he conceives) ad<g ref="char:EOLhyphen"/>mitting of no long delayes, which hath bin, and ſtill is too great a fault amongſt us, for the old Proverbe of late hath (oft times) proved too true, <hi>When the Steed
+<pb n="12" facs="tcp:51535:9"/>is ſtolne, then we ſhut the ſtable doore;</hi> and theſe after games to a cunning skilfull Gamſter ſeldome proves good: b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a word to the wiſe is ſufficient.</p>
+            </div>
+            <div type="part">
+               <head>Finally my Brethren, let us truſt in the Lord our God, who is the Lord of hosts, and who for bis unſpeakable Glory, and our comforts (be it knowne unto you) bleſſed be his great Name.</head>
+               <p>The Authour doth very beleeve that rather then theſe true Malignants afore named, whom he hath en<g ref="char:EOLhyphen"/>devoured (but not fully able) to ſet forth in their pro<g ref="char:EOLhyphen"/>per bloudy colour ſhall go unpuniſhed for this their rebellion, blaſphemy, &amp;c. but eſpecially for the blood of Gods Saints, which they have ſo cruelly and un<g ref="char:EOLhyphen"/>mercifully ſpilt, without any other cauſe (ſave onely in oppoſition and malignity againſt God and good<g ref="char:EOLhyphen"/>neſſe, that very God (Miracles being ceaſed) who will be ſeene in the ordinary wayes of his providence; Yet being unlimited, I ſay againe, rather then ſuch Wretches ſhall goe unpuniſhed, He will fend an An<g ref="char:EOLhyphen"/>gell from Heaven to deſtroy them, or cauſe the earth of a ſudden, unexpectedly to ſwallow them up, as he did <hi>Corah, Dathan</hi> and <hi>Abiram,</hi> who ſpake the ſame language to <hi>Moſes</hi> and <hi>Aaron</hi> as theſe Wretches now doe to the Parliament, nay more, for theſe ſay in their hearts, We will not that Jeſus Chriſt ſhall reigne o<g ref="char:EOLhyphen"/>ver us, and ſo undeniably the Devill muſt, who they need not feare but ſooner or later will pay them their wages for this their falacious good ſervice, if not timely repented of, which God grant them ſo to doe (if they belong to him.)</p>
+               <p>
+                  <hi>If wicked</hi> Achans <hi>be but removed, and the Doctrine and Diſcipline of the Church ſetled, God will be ſoone ſeene in the Mount.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
